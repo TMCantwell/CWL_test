@@ -1,0 +1,7 @@
+sing_image:
+  class: File
+  path: lolcow.simg
+
+words: I am the donkey
+
+out_file: CWL_workflow_cow.txt
